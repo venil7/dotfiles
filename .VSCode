@@ -1,0 +1,26 @@
+// Place your settings in this file to overwrite the default settings
+{
+    "editor.fontFamily": "Fira Code, Monaco, 'Courier New', monospace",
+    "editor.fontSize": 13,
+    "editor.fontLigatures": true,
+    "editor.tabSize": 2,
+    "editor.formatOnType": true,
+    "files.trimTrailingWhitespace": true,
+    "telemetry.enableTelemetry": false,
+    "telemetry.enableCrashReporter": false,
+    "git.confirmSync": false,
+    "window.zoomLevel": 0,
+    "typescript.check.tscVersion": false,
+    "javascript.validate.enable": false,
+    "terminal.integrated.shell.osx": "/usr/local/bin/zsh",
+    "sync.gist": "100d4ad5b6c578ec8b7f285bf09036fe",
+    "sync.lastUpload": "2017-01-14T14:44:51.704Z",
+    "sync.autoDownload": false,
+    "sync.autoUpload": false,
+    "sync.lastDownload": "1970-01-01T00:00:00.000Z",
+    "sync.version": 242,
+    "sync.showSummary": true,
+    "sync.forceDownload": false,
+    "sync.workspaceSync": false,
+    "sync.anonymousGist": false
+  }
